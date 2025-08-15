@@ -1,0 +1,11 @@
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\bin\Debug\net9.0\Application.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\bin\Debug\net9.0\Application.pdb
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.pdb
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\ref\Application.dll
