@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8st9ZnHVHZk=",
+  "dgSpecHash": "09+FkoYbNgc=",
   "success": true,
   "projectFilePath": "C:\\Dev\\Projects\\DotNet\\OrderManagerDDD\\src\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eudes\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
   "logs": []
 }

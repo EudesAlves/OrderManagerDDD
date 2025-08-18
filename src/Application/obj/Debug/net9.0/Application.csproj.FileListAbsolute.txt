@@ -9,3 +9,4 @@ C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Applicat
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.pdb
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.sourcelink.json

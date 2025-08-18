@@ -94,3 +94,4 @@ C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\WebMvc.pdb
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\WebMvc.genruntimeconfig.cache
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\ref\WebMvc.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\WebMvc.sourcelink.json
