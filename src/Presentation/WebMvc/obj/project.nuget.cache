@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "16jP9mDqt8o=",
+  "dgSpecHash": "7HzX/6KOMKk=",
   "success": true,
   "projectFilePath": "C:\\Dev\\Projects\\DotNet\\OrderManagerDDD\\src\\Presentation\\WebMvc\\WebMvc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eudes\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,6 +14,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -36,11 +46,17 @@
         "lib/netstandard2.0/Dapper.xml",
         "readme.md"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Dapper >= 2.1.66"
+      "Dapper >= 2.1.66",
+      "Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -74,7 +90,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Dev\\Projects\\DotNet\\OrderManagerDDD\\src\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Dev\\Projects\\DotNet\\OrderManagerDDD\\src\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

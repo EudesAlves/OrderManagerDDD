@@ -10,3 +10,9 @@ C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\refint\A
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.pdb
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\ref\Application.dll
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.sourcelink.json
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\bin\Debug\net9.0\Domain.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\bin\Debug\net9.0\Infrastructure.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\bin\Debug\net9.0\Domain.pdb
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\bin\Debug\net9.0\Infrastructure.pdb
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date

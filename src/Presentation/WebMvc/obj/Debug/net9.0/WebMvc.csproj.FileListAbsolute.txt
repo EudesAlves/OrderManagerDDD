@@ -95,3 +95,12 @@ C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\WebMvc.genruntimeconfig.cache
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\ref\WebMvc.dll
 C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\WebMvc.sourcelink.json
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\bin\Debug\net9.0\Dapper.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\bin\Debug\net9.0\Application.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\bin\Debug\net9.0\Domain.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\bin\Debug\net9.0\Infrastructure.dll
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\bin\Debug\net9.0\Application.pdb
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\bin\Debug\net9.0\Domain.pdb
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\bin\Debug\net9.0\Infrastructure.pdb
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\WebMvc.csproj.AssemblyReference.cache
+C:\Dev\Projects\DotNet\OrderManagerDDD\src\Presentation\WebMvc\obj\Debug\net9.0\WebMvc.csproj.Up2Date
